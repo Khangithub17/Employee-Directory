@@ -1,0 +1,59 @@
+{
+  "name": "employee-directory",
+  "version": "1.0.0",
+  "description": "A responsive and interactive Employee Directory built with HTML, CSS, Vanilla JavaScript, and Freemarker templates",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx live-server --port=8000 --open=/index.html",
+    "serve": "python -m http.server 8000",
+    "dev": "npx live-server --port=3000 --open=/index.html",
+    "freemarker": "npx live-server --port=8000 --open=/index.ftl",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "echo \"No linting configured\" && exit 0",
+    "build": "echo \"No build process required for static files\" && exit 0"
+  },
+  "keywords": [
+    "employee-directory",
+    "javascript",
+    "html",
+    "css",
+    "freemarker",
+    "responsive",
+    "crud",
+    "frontend",
+    "vanilla-js",
+    "pagination",
+    "filtering",
+    "sorting"
+  ],
+  "author": "Frontend Developer",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Khangithub17/Employee-Directory.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Khangithub17/Employee-Directory/issues"
+  },
+  "homepage": "https://github.com/Khangithub17/Employee-Directory#readme",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  },
+  "engines": {
+    "node": ">=14.0.0",
+    "npm": ">=6.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead",
+    "not ie 11"
+  ],
+  "files": [
+    "index.html",
+    "index.ftl",
+    "css/",
+    "js/",
+    "README.md"
+  ]
+}
