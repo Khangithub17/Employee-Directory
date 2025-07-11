@@ -10,7 +10,7 @@
 
 ## ✨ Live Demo
 
-🚀 **[View Live Application](https://khangithub17.github.io/Employee-Directory/)**
+🚀 **[https://khangithub17.github.io/Employee-Directory/)**
 
 ## 📸 Screenshots
 
