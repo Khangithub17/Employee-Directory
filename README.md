@@ -15,15 +15,16 @@
 ## 📸 Screenshots
 
 ### Desktop View
-![Desktop Dashboard](https://via.placeholder.com/800x400/667eea/ffffff?text=Desktop+Dashboard+View)
+<img width="1880" height="851" alt="image" src="https://github.com/user-attachments/assets/dacdb4ea-de51-47b7-a3fd-f76cc37f4637" />
+
+
 
 ### Mobile Responsive
-<img src="https://via.placeholder.com/300x600/667eea/ffffff?text=Mobile+View" alt="Mobile View" width="300">
+<img width="263" height="531" alt="image" src="https://github.com/user-attachments/assets/9bf5c1b5-18e6-4d1e-8f5e-0a492d7d8e36" />
+
 
 ### Add Employee Modal
-![Add Employee Modal](https://via.placeholder.com/600x400/4CAF50/ffffff?text=Add+Employee+Modal)
-
-## 🚀 Features
+<img width="1893" height="831" alt="image" src="https://github.com/user-attachments/assets/b7c26024-2da0-4514-847b-52c8bfff6aa3" />
 
 ## ✨ Features
 
